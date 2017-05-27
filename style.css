@@ -1,0 +1,92 @@
+@import 'normalize.css';
+
+.header{
+	display: block;
+	width: 100%;
+}
+.header-part{
+	display: inline;
+	text-align: center;
+}
+.edu {
+	display: block;
+	margin-top: 170px;
+}
+#abc{
+
+	color: white;
+    float: right;
+    text-align: right; 
+    display: block;
+    float: right;
+}
+.abc1 p{color: white;
+	margin-right: 50%;
+}
+
+table,th,td{
+	border: 3px solid ;
+	 border-collapse: collapse; 
+	border-color: black;
+	color: white;
+	width: 58%;
+
+
+}
+
+
+.abc3{
+	width: 100%;
+	display: block;
+	float: left;
+}
+.abc3 p{
+	line-height: 0.8px;
+	color: white;
+}
+
+.abc3 {width: 100%;
+	display: block;
+}
+.skills{
+	width: 100%;
+	display: block;
+	float: left;
+
+}
+.skills .ordered {
+	float: left;
+	padding-right: 20px;
+
+
+}
+
+.interests{
+	width: 100%;
+	display: block;
+	float: left;
+}
+
+.page{display: block;
+	margin:0% 20% 0% 20%;
+	padding-bottom: 800px;
+    background-color: #3A4A53;
+    border: 4px solid #152F3D;
+    padding-top: -10px;
+	
+
+}
+
+
+body{
+	margin-top: -1px;
+	font-family: 'Architects Daughter', cursive;
+}
+ul{
+	color: white;
+}
+
+/*---------------------index----------------------*/
+
+.content form{margin: 10% 45%;  }
+.a14:hover{ background-color: #152F3D; color: white;  }
